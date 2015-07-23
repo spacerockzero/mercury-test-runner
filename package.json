@@ -1,0 +1,11 @@
+{
+  "name": "mercury-test-runner",
+  "version": "1.0.0",
+  "description": "A test runner to execute WPT runs against a list of pre-defined pages in multiple connection modes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jakob Anderson",
+  "license": "MIT"
+}
